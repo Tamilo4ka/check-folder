@@ -43,3 +43,9 @@ p {
   background-color: #28a745;
   border-color: #28a745;
 }
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  margin-left: 20px;
+}
